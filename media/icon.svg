@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 金魚鉢 -->
+  <ellipse cx="12" cy="14" rx="8" ry="7"/>
+  <path d="M8 7 Q12 5 16 7"/>
+  <!-- 水面 -->
+  <path d="M6 11 Q9 9.5 12 11 Q15 12.5 18 11" stroke-width="1"/>
+  <!-- 金魚 (簡易) -->
+  <ellipse cx="11" cy="15" rx="2.5" ry="1.5" fill="currentColor"/>
+  <path d="M13.5 15 L16 13.5 L16 16.5 Z" fill="currentColor"/>
+</svg>
