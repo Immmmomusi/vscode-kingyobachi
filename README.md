@@ -2,7 +2,7 @@
 
 A relaxing pixel-art goldfish bowl to watch while coding.
 
-![Kingyobachi in action](media/sagyou_image.gif)
+![Kingyobachi in action](https://raw.githubusercontent.com/Immmmomusi/vscode-kingyobachi/main/media/sagyou_image.gif)
 
 ## Features
 
@@ -12,7 +12,7 @@ A relaxing pixel-art goldfish bowl to watch while coding.
 - Fish grow over time (small → medium → large)
 - Hunger and death notifications
 
-![Feeding](media/esayari.gif)
+![Feeding](https://raw.githubusercontent.com/Immmmomusi/vscode-kingyobachi/main/media/esayari.gif)
 
 ## Installation
 
